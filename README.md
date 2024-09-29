@@ -1,3 +1,3 @@
-# PKU Lab 1806 LLM Organization
+# .github
 
-北京大学1806实验室大模型（RAG、向量数据库等）方向项目仓库集合。
+Repository that we can use to add README.md to our public organization profile.
