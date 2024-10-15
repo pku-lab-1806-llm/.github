@@ -4,6 +4,16 @@ We are PKU Lab 1806 Large Language Model Team!
 
 Currently we focus on RAG & Vector-Database. Some repositories may not be public.
 ﻿
+## Intro
+
+- (Private) `lab-1806-vec-db`: Lab 1806 Vector Database written in Rust. Planned to be open-source in future.
+  - (Public) [*Python package* of `lab-1806-vec-db`](https://pypi.org/project/lab-1806-vec-db/): Local vec-db specialized for RAG applications.
+    ```bash
+    pip install lab-1806-vec-db
+    ```
+- (Private) `kq-rag`: RAG application prototype. Further details are private. Join us to learn more.
+  - (Unimplemented) A universal RAG library (called `lab-1806-rag`) based on this prototype is preparing to start development.
+
 ## For members (zh-cn)
 
 ### 贡献代码
