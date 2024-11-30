@@ -12,8 +12,8 @@ Currently we focus on RAG & Vector-Database. Some repositories may not be public
     pip install lab-1806-vec-db
     ```
   - (Private) `kq-rag`: minimal RAG application demo to show how to use our `vec-db`.
-- (Private) `lab-1806-rag`: A universal RAG library. Provides Restful API of knowledge base managment.
-  - (Private) `lab-1806-webui`: WebUI of `lab-1806-rag`. Provides basic Chat & History & Title Generation & Knowledge-base Management & Backend Choosing.
+- (Private) `lab-1806-rag`: Out-of-the-box RAG application with knowledge-base management. Supports OpenAI-like API and Ollama API.
+  - (Private) `lab-1806-webui`: WebUI for `lab-1806-rag` with Basic Chat & History & Title Generation & Knowledge-base Management & Backend Choosing.
 
 ## For members (zh-cn)
 
