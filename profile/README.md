@@ -6,13 +6,14 @@ Currently we focus on RAG & Vector-Database. Some repositories may not be public
 ﻿
 ## Intro
 
-- (Private) `lab-1806-vec-db`: Lab 1806 Vector Database written in Rust. Planned to be open-source in future.
-  - (Public) [*Python package* of `lab-1806-vec-db`](https://pypi.org/project/lab-1806-vec-db/): Local vec-db specialized for RAG applications.
+- `lab-1806-vec-db`: Lab 1806 Vector Database written in Rust.
+  - [*Python package* of `lab-1806-vec-db`](https://pypi.org/project/lab-1806-vec-db/): Local vec-db specialized for RAG applications.
     ```bash
     pip install lab-1806-vec-db
     ```
-- (Private) `kq-rag`: RAG application prototype. Further details are private. Join us to learn more.
-  - (Unimplemented) A universal RAG library (called `lab-1806-rag`) based on this prototype is preparing to start development.
+  - (Private) `kq-rag`: minimal RAG application demo to show how to use our `vec-db`.
+- (Private) `lab-1806-rag`: A universal RAG library. Provides Restful API of knowledge base managment.
+  - (Private) `lab-1806-webui`: WebUI of `lab-1806-rag`. Provides basic Chat & History & Title Generation & Knowledge-base Management & Backend Choosing.
 
 ## For members (zh-cn)
 
