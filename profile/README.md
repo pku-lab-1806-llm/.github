@@ -4,9 +4,9 @@ We are PKU Lab 1806 Large Language Model Team!
 
 Currently we focus on RAG & Vector-Database. Some repositories may not be public.
 ﻿
-## Intro
+## Repos
 
-- `lab-1806-vec-db`: Vector Database written in Rust. [PyPI `lab-1806-vec-db`](https://pypi.org/project/lab-1806-vec-db/)
+- `lab-1806-vec-db`: Vector Database written in Rust. [PyPI lab-1806-vec-db](https://pypi.org/project/lab-1806-vec-db/)
 - (Private) `lab-1806-rag`: User-friendly Chat & Knowledge-base platform. Supports OpenAI/DeepSeek/Ollama/Google/OpenRouter API.
 
 ## For members (zh-cn)
