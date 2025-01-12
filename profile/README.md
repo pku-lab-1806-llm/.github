@@ -6,9 +6,8 @@ Currently we focus on RAG & Vector-Database. Some repositories may not be public
 ﻿
 ## Intro
 
-- `lab-1806-vec-db`: Lab 1806 Vector Database written in Rust. [*Python binding* of `lab-1806-vec-db`](https://pypi.org/project/lab-1806-vec-db/)
-- (Private) `lab-1806-rag`: Out-of-the-box RAG application with knowledge-base management. Supports OpenAI-like API and Ollama API.
-  - (Private) `lab-1806-webui`: WebUI for `lab-1806-rag` with Basic Chat & History & Title Generation & Knowledge-base Management & Backend Choosing.
+- `lab-1806-vec-db`: Vector Database written in Rust. [PyPI `lab-1806-vec-db`](https://pypi.org/project/lab-1806-vec-db/)
+- (Private) `lab-1806-rag`: User-friendly Chat & Knowledge-base platform. Supports OpenAI/DeepSeek/Ollama/Google/OpenRouter API.
 
 ## For members (zh-cn)
 
